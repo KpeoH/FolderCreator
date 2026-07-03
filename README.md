@@ -1,8 +1,8 @@
-**[🇷🇺 Русская версия](#-foldercreator-1)** | **[🇬🇧 English version](#-foldercreator)**
+**[🇷🇺 Русская версия](#-русская-версия--foldercreator)** | **[🇬🇧 English version](#-english-version--foldercreator)**
 
 ---
 
-# 🇷🇺 FolderCreator
+## 🇷🇺 Русская версия — FolderCreator
 
 Простой и удобный инструмент для автоматической сортировки файлов по расширениям в выбранной папке.
 
@@ -66,7 +66,7 @@ pyinstaller --onefile --windowed --icon=icon.png --add-data "icon.png;." FolderC
 Проект распространяется как есть. Используйте на свой страх и риск.
 
 
-# 🇬🇧 FolderCreator
+## 🇬🇧 English version — FolderCreator
 
 A simple and convenient tool for automatic file sorting by extensions in the selected folder.
 
