@@ -1,10 +1,12 @@
-🇷🇺 **Русская версия** | 🇬🇧 **English version**
+**[🇷🇺 Русская версия](#-foldercreator-1)** | **[🇬🇧 English version](#-foldercreator)**
 
-## 🇷🇺 FolderCreator
+---
+
+# 🇷🇺 FolderCreator
 
 Простой и удобный инструмент для автоматической сортировки файлов по расширениям в выбранной папке.
 
-## Описание
+### Описание
 
 FolderCreator — это десктопное приложение на Python, которое помогает быстро навести порядок в рабочих директориях. Оно перемещает файлы в соответствующие подпапки согласно заданным правилам (например, все .obj и .fbx в папку Export). 
 
@@ -63,15 +65,12 @@ pyinstaller --onefile --windowed --icon=icon.png --add-data "icon.png;." FolderC
 ## Лицензия
 Проект распространяется как есть. Используйте на свой страх и риск.
 
-----------------------------------------------------------------------------
--                                                                          -
-----------------------------------------------------------------------------
 
-## 🇬🇧 FolderCreator
+# 🇬🇧 FolderCreator
 
 A simple and convenient tool for automatic file sorting by extensions in the selected folder.
 
-## Description
+### Description
 
 FolderCreator is a desktop application written in Python that helps you quickly organize files in your working directories. It moves files into corresponding subfolders according to predefined rules (for example, all `.obj` and `.fbx` files go to the Export folder).
 
